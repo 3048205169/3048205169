@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 Nice to join Github!
+https://count.getloli.com/get/@:name
+<img src="https://count.getloli.com/get/@:name" alt=":name" />
+![:name](https://count.getloli.com/get/@:name)
 
 
 <!--
