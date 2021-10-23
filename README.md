@@ -4,7 +4,7 @@ Nice to join Github!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3048205169)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3048205169)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3048205169&repo=https://github.com/3048205169/Malloc)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3048205169&repo=Malloc)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://count.getloli.com/get/@:name" alt=":name" />
